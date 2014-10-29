@@ -8,3 +8,4 @@ omit =
     */python?.?/*
     */site-packages/nose/*
     bopitbot/init_db.py
+    bopitbot/test/*
