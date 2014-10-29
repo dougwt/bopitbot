@@ -47,6 +47,8 @@ However, if the chosen follower fails to respond to the appropriate `bopitbot` w
 
 ### Gameplay Flowchart
 
+![Image](assets/flowchart.svg)
+
 <img src="assets/flowchart.svg" alt="Gameplay Flowchart" width="350px" />
 
 ### Attributes 

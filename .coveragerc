@@ -1,6 +1,7 @@
 # .coveragerc to control coverage.py
 [run]
 branch = True
-include =
-    bopitbot/*
+# include =
+#     bopitbot/*
 omit =
+    bopitbot/init_db.py
