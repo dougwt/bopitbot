@@ -3,5 +3,8 @@
 branch = True
 # include =
 #     bopitbot/*
+[report]
 omit =
+    */python?.?/*
+    */site-packages/nose/*
     bopitbot/init_db.py
