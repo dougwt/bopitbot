@@ -9,3 +9,4 @@ omit =
     */site-packages/nose/*
     bopitbot/init_db.py
     bopitbot/test/*
+    */__init__.py
